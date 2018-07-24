@@ -15,10 +15,10 @@ The goal here is to collect a labelled news corpus. Tasks to be completed:
 ## Part 2. Text Classification
 
 The goal here is to analyse the corpus of documents from Part 1 in a text classification context. Tasks to be completed:
-  1. From the files created in Part 1, load the set of raw documents into your notebook. Ensure that each document has a class label, based on the original category label that you identified.
+  1. From the files created in Part 1, load the set of raw documents into the jupyter notebook. Ensure that each document has a class label, based on the original category label that you identified.
   2. From the raw documents, create a document-term matrix, using appropriate text pre-processing and term weighting steps.
   3. Build two multi-class classification models using two different classifiers of your choice.
-  4. Compare the predictions of the two classification models using an appropriate evaluation strategy. Report and discuss the evaluation results in your notebook.
+  4. Compare the predictions of the two classification models using an appropriate evaluation strategy. Report and discuss the evaluation results in the notebook.
 
 # Tasks Completed
 
